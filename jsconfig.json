@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true // Avoids checking for missing types in node_modules
+  },
+  "include": [
+    "client/src"
+  ] // Include your source code directory
+}
